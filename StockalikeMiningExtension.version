@@ -1,0 +1,32 @@
+{
+  "NAME": "StockalikeMiningExtension",
+  "URL": "https://raw.githubusercontent.com/linuxgurugamer/Stockalike-Mining-Extension/refs/heads/master/StockalikeMiningExtension.version",
+  "DOWNLOAD": "https://github.com/linuxgurugamer/Stockalike-Mining-Extension/releases",
+  "VERSION": {
+    "MAJOR": 2,
+    "MINOR": 0,
+    "PATCH": 0,
+    "BUILD": 0
+  },
+  "KSP_VERSION": {
+    "MAJOR": 1,
+    "MINOR": 12,
+    "PATCH": 5
+  },
+  "KSP_VERSION_MIN": {
+    "MAJOR": 1,
+    "MINOR": 12,
+    "PATCH": 0
+  },
+  "KSP_VERSION_MAX": {
+    "MAJOR": 1,
+    "MINOR": 12,
+    "PATCH": 99
+  },
+  "INSTALL_LOC_1": {
+    "NAME": "StockalikeMiningExtension",
+    "PATH": "",
+    "DIRECTORY": "MiningExpansion",
+    "FILE": "StockalikeMiningExtension.version"
+  }
+}
