@@ -16,6 +16,7 @@ Changelog
 
 	Added support for PatchManager, which now includes the optional patches which were in the Extras folder in the original zip file
 	Removed ModuleManager.dll from the release
+	Fixed texture paths, and included necessary missing texture file from old stock
 
 
 1.1.6 - Rafael Dominiquini
