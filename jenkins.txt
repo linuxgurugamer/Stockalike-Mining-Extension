@@ -30,7 +30,6 @@
 # 3:SOURCEFILE, DESTDIR
 3:StockalikeMiningExtension.version,GameData/MiningExpansion
 
-9:Extras
 9:Ships
 
 #
